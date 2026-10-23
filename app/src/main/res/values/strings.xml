@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="inicio">inicio\n</string>
+    <string name="perfil">perfil\n</string>
+    <string name="confguração">configuração\n</string>
+</resources>

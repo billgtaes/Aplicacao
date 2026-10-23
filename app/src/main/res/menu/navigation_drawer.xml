@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_inicio"
+        android:title="@string/inicio"
+        android:icon="@android:drawable/ic_menu_view"
+        />
+
+    <item android:id="@+id/menu_perfil"
+        android:title="@string/perfil"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        />
+
+    <item android:id="@+id/menu_config"
+        android:title="@string/confguração"
+        android:icon="@android:drawable/ic_menu_manage"
+        />
+</menu>
